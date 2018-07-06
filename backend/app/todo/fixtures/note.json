@@ -1,0 +1,24 @@
+[
+{
+    "model": "todo.note",
+    "pk": 1,
+    "fields": {
+        "task": "buy milk",
+        "color": "#FFFFFF",
+        "done": false,
+        "is_archived": false,
+        "timestamp": "2018-06-26T07:14:40.265Z"
+    }
+},
+{
+    "model": "todo.note",
+    "pk": 2,
+    "fields": {
+        "task": "buy bread",
+        "color": "#FFFFFF",
+        "done": false,
+        "is_archived": false,
+        "timestamp": "2018-06-26T07:14:57.792Z"
+    }
+}
+]

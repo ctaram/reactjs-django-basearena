@@ -1,0 +1,14 @@
+django==2.0
+djangorestframework==3.8
+django-environ==0.4.4
+flex==6.12
+swagger-spec-validator==2.1.0
+django-cors-headers==2.2.0
+gunicorn==19.8
+drf-yasg==1.8
+django-test-plus==1.0.22
+coverage
+flake8
+pylint-django
+prospector
+bandit
