@@ -1,9 +1,9 @@
-import { call, put, takeLatest } from "redux-saga/effects";
+import { call, put, takeLatest } from 'redux-saga/effects';
 
-import { REQUEST_DATA, receiveData } from "../actions/getData_action";
-import { POST_DATA } from "../actions/postData_action";
-import { DELETE_DATA } from "../actions/deleteData_action";
-import { UPDATE_DATA } from "../actions/updateData_action";
+import { REQUEST_DATA, receiveData } from '../actions/getData_action';
+import { POST_DATA } from '../actions/postData_action';
+import { DELETE_DATA } from '../actions/deleteData_action';
+import { UPDATE_DATA } from '../actions/updateData_action';
 
 const hostName = process.env.REACT_APP_HOST_NAME;
 
